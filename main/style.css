@@ -301,6 +301,7 @@
  /* employes section */
 
  .employes {
+     margin-bottom: 180px;
      padding-top: 119px;
      padding-bottom: 135px;
      background-color: #F2EFE6;
@@ -334,3 +335,11 @@
     text-align: center;
     color: #163A24;
  }
+
+ /* scenes section */
+
+ .scanes {
+     margin-bottom: 120px;
+ }
+
+ /*  */
