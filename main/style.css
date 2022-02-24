@@ -142,3 +142,43 @@
     line-height: 27px;
     color: #FBFAF7;
  }
+
+ /* human section */
+
+ .human {
+    margin-top: 120px;
+ }
+
+ .human__container {
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .human__image {
+    margin-left: 98px;
+ }
+
+ .human__block {
+    padding-top: 157px;
+    padding-left: 90px;
+ }
+
+ .human__header {
+    padding-bottom: 27px;
+    width: 325px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    color: #163A24;
+ }
+
+ .human__info {
+    width: 374px;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #163A24;
+ }
