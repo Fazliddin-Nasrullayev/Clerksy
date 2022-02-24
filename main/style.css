@@ -248,3 +248,52 @@
      align-items: center;
      justify-content: space-around;
  }
+
+ /*  production section */
+
+ .production {
+    background-color: #163A24;
+ }
+
+ .production__container {
+     padding-top: 66px;
+     padding-bottom: 120px;
+ }
+
+ .production__header {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    text-align: center;
+    color: #FBFAF7;
+ }
+
+ .production__list {
+    margin-top: 73px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ .production__list__item {
+     display: flex;
+     flex-direction: column;
+     padding: 0 45px;
+     align-items: center;
+ }
+
+ .production__info {
+    padding-top: 28px;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FBFAF7;
+ }
+
+ .production__info1 {
+    padding-top: 10px;
+ }
