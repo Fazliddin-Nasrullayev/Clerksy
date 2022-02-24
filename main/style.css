@@ -1,0 +1,40 @@
+/* noto-sans-regular - latin */
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    src:
+         url('../fonts/noto-sans-v25-latin-regular.woff2') format('woff2'), 
+         url('../fonts/noto-sans-v25-latin-regular.woff') format('woff'), 
+         url('../fonts/noto-sans-v25-latin-regular.ttf') format('truetype');
+  }
+  /* noto-sans-700 - latin */
+  @font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: 
+         url('../fonts/noto-sans-v25-latin-700.woff2') format('woff2'), 
+         url('../fonts/noto-sans-v25-latin-700.woff') format('woff'), 
+         url('../fonts/noto-sans-v25-latin-700.ttf') format('truetype');
+  }
+
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+
+  body {
+      font-family:'Noto Sans', 'Arial', sans-serif ;
+  }
+
+  img {
+      display: inline-block;
+  }
+
+  .container {
+      max-width: 1220px;
+      padding: 0 20px;
+      margin: 0 auto;o
+  }
