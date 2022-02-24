@@ -182,3 +182,38 @@
     line-height: 27px;
     color: #163A24;
  }
+
+ /* play section */
+
+ .play__container {
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .play__block {
+    padding-top: 111px;
+    padding-left: 98px;
+ }
+
+ .play__img {
+    margin-right: 98px;
+ }
+
+ .play__header {
+    width: 423px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    color: #163A24;
+ }
+
+ .play__info {
+    width: 380px;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #163A24;
+ }
