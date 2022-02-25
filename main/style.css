@@ -193,6 +193,7 @@
  .play__block {
     padding-top: 111px;
     padding-left: 98px;
+   position: relative;
  }
 
  .play__img {
@@ -209,6 +210,7 @@
  }
 
  .play__info {
+    padding-top: 25px;
     width: 380px;
     font-family: Noto Sans;
     font-style: normal;
@@ -524,4 +526,18 @@
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto;
+}
+
+/* another section */
+
+.another {
+   padding: 119px 0;
+}
+
+
+
+.another__link {
+   position: absolute;
+   left: 97px;
+   top: 300px;
 }
